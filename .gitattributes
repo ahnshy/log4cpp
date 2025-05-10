@@ -5,8 +5,18 @@
 *.bpr linguist-detectable=false
 *.bpf linguist-detectable=false
 *.sh        linguist-detectable=false
+*.bash                linguist-detectable=false
 *.bash      linguist-detectable=false
 *.zsh       linguist-detectable=false
 CMakeLists.txt   linguist-detectable=false
 *.cmake          linguist-detectable=false
-
+autogen.sh            linguist-detectable=false
+install-sh            linguist-detectable=false
+configure             linguist-detectable=false
+config.guess          linguist-detectable=false
+config.sub            linguist-detectable=false
+depcomp               linguist-detectable=false
+missing               linguist-detectable=false
+libtool                linguist-detectable=false
+libtoolize            linguist-detectable=false
+build-aux/*           linguist-detectable=false
