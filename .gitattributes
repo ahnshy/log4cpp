@@ -1,0 +1,7 @@
+*.am linguist-detectable=false
+*.in linguist-detectable=false
+*.m4 linguist-detectable=false
+*.mak linguist-detectable=false
+*.bpr linguist-detectable=false
+*.bpf linguist-detectable=false
+
