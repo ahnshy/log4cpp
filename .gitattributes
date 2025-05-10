@@ -4,4 +4,6 @@
 *.mak linguist-detectable=false
 *.bpr linguist-detectable=false
 *.bpf linguist-detectable=false
+*.sh linguist-detectable=false
+*.txt linguist-detectable=false
 
