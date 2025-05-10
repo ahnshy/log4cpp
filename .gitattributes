@@ -4,6 +4,9 @@
 *.mak linguist-detectable=false
 *.bpr linguist-detectable=false
 *.bpf linguist-detectable=false
-*.sh linguist-detectable=false
-*.txt linguist-detectable=false
+*.sh        linguist-detectable=false
+*.bash      linguist-detectable=false
+*.zsh       linguist-detectable=false
+CMakeLists.txt   linguist-detectable=false
+*.cmake          linguist-detectable=false
 
